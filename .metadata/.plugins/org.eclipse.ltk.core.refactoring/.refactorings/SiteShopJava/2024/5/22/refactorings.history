@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SiteShopJava/src/main/java/com/eazydeals&apos; to &apos;PIZZA&apos;" description="Rename resource &apos;eazydeals&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/com/eazydeals" name="PIZZA" stamp="1716921988509" updateReferences="true"/>
+</session>
